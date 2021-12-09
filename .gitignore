@@ -2,3 +2,4 @@
 .DS_Store
 fyne.syso
 *.exe
+vendor
